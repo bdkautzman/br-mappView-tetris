@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="350px" height="650px">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g id="Board">
+<rect width="300" height="600" style="fill:rgb(128,128,128)" />
+</g>
+<g id="T1">
+<rect width="30" height="30" />
+</g>
+<g id="T2">
+<rect width="30" height="30" />
+</g>
+<g id="T3">
+<rect width="30" height="30" />
+</g>
+<g id="T4">
+<rect width="30" height="30" />
+</g>
+<g id="T5">
+<rect width="30" height="30" />
+</g>
+<g id="T6">
+<rect width="30" height="30" />
+</g>
+<g id="T7">
+<rect width="30" height="30" />
+</g>
+<g id="T8">
+<rect width="30" height="30" />
+</g>
+<g id="T9">
+<rect width="30" height="30" />
+</g>
+<g id="T10">
+<rect width="30" height="30" />
+</g>
+<g id="T11">
+<rect width="30" height="30" />
+</g>
+<g id="T12">
+<rect width="30" height="30" />
+</g>
+<g id="T13">
+<rect width="30" height="30" />
+</g>
+<g id="T10">
+<rect width="30" height="30" />
+</g>
+<g id="T14">
+<rect width="30" height="30" />
+</g>
+<g id="T15">
+<rect width="30" height="30" />
+</g>
+<g id="T16">
+<rect width="30" height="30" />
+</g>
+<g id="T17">
+<rect width="30" height="30" />
+</g>
+<g id="T18">
+<rect width="30" height="30" />
+</g>
+<g id="T19">
+<rect width="30" height="30" />
+</g>
+<g id="T20">
+<rect width="30" height="30" />
+</g>
+<g id="T21">
+<rect width="30" height="30" />
+</g>
+<g id="T22">
+<rect width="30" height="30" />
+</g>
+<g id="T23">
+<rect width="30" height="30" />
+</g>
+<g id="T24">
+<rect width="30" height="30" />
+</g>
+<g id="T25">
+<rect width="30" height="30" />
+</g>
+<g id="T26">
+<rect width="30" height="30" />
+</g>
+<g id="T27">
+<rect width="30" height="30" />
+</g>
+<g id="T28">
+<rect width="30" height="30" />
+</g>
+<g id="T29">
+<rect width="30" height="30" />
+</g>
+<g id="T30">
+<rect width="30" height="30" />
+</g>
+<g id="T31">
+<rect width="30" height="30" />
+</g>
+<g id="T32">
+<rect width="30" height="30" />
+</g>
+<g id="T33">
+<rect width="30" height="30" />
+</g>
+<g id="T34">
+<rect width="30" height="30" />
+</g>
+<g id="T35">
+<rect width="30" height="30" />
+</g>
+<g id="T36">
+<rect width="30" height="30" />
+</g>
+<g id="T37">
+<rect width="30" height="30" />
+</g>
+<g id="T38">
+<rect width="30" height="30" />
+</g>
+<g id="T39">
+<rect width="30" height="30" />
+</g>
+<g id="T40">
+<rect width="30" height="30" />
+</g>
+<g id="T41">
+<rect width="30" height="30" />
+</g>
+<g id="T42">
+<rect width="30" height="30" />
+</g>
+<g id="T43">
+<rect width="30" height="30" />
+</g>
+<g id="T44">
+<rect width="30" height="30" />
+</g>
+<g id="T45">
+<rect width="30" height="30" />
+</g>
+<g id="T46">
+<rect width="30" height="30" />
+</g>
+<g id="T47">
+<rect width="30" height="30" />
+</g>
+<g id="T48">
+<rect width="30" height="30" />
+</g>
+<g id="T49">
+<rect width="30" height="30" />
+</g>
+<g id="T50">
+<rect width="30" height="30" />
+</g>
+<g id="T51">
+<rect width="30" height="30" />
+</g>
+<g id="T52">
+<rect width="30" height="30" />
+</g>
+<g id="T53">
+<rect width="30" height="30" />
+</g>
+<g id="T54">
+<rect width="30" height="30" />
+</g>
+<g id="T55">
+<rect width="30" height="30" />
+</g>
+<g id="T56">
+<rect width="30" height="30" />
+</g>
+<g id="T57">
+<rect width="30" height="30" />
+</g>
+<g id="T58">
+<rect width="30" height="30" />
+</g>
+<g id="T59">
+<rect width="30" height="30" />
+</g>
+<g id="T60">
+<rect width="30" height="30" />
+</g>
+<g id="T61">
+<rect width="30" height="30" />
+</g>
+<g id="T62">
+<rect width="30" height="30" />
+</g>
+<g id="T63">
+<rect width="30" height="30" />
+</g>
+<g id="T64">
+<rect width="30" height="30" />
+</g>
+<g id="T65">
+<rect width="30" height="30" />
+</g>
+<g id="T66">
+<rect width="30" height="30" />
+</g>
+<g id="T67">
+<rect width="30" height="30" />
+</g>
+<g id="T68">
+<rect width="30" height="30" />
+</g>
+<g id="T69">
+<rect width="30" height="30" />
+</g>
+<g id="T70">
+<rect width="30" height="30" />
+</g>
+<g id="T71">
+<rect width="30" height="30" />
+</g>
+<g id="T72">
+<rect width="30" height="30" />
+</g>
+<g id="T73">
+<rect width="30" height="30" />
+</g>
+<g id="T74">
+<rect width="30" height="30" />
+</g>
+<g id="T75">
+<rect width="30" height="30" />
+</g>
+<g id="T76">
+<rect width="30" height="30" />
+</g>
+<g id="T77">
+<rect width="30" height="30" />
+</g>
+<g id="T78">
+<rect width="30" height="30" />
+</g>
+<g id="T79">
+<rect width="30" height="30" />
+</g>
+<g id="T80">
+<rect width="30" height="30" />
+</g>
+<g id="T81">
+<rect width="30" height="30" />
+</g>
+<g id="T82">
+<rect width="30" height="30" />
+</g>
+<g id="T83">
+<rect width="30" height="30" />
+</g>
+<g id="T84">
+<rect width="30" height="30" />
+</g>
+<g id="T85">
+<rect width="30" height="30" />
+</g>
+<g id="T86">
+<rect width="30" height="30" />
+</g>
+<g id="T87">
+<rect width="30" height="30" />
+</g>
+<g id="T88">
+<rect width="30" height="30" />
+</g>
+<g id="T89">
+<rect width="30" height="30" />
+</g>
+<g id="T90">
+<rect width="30" height="30" />
+</g>
+<g id="T91">
+<rect width="30" height="30" />
+</g>
+<g id="T92">
+<rect width="30" height="30" />
+</g>
+<g id="T93">
+<rect width="30" height="30" />
+</g>
+<g id="T94">
+<rect width="30" height="30" />
+</g>
+<g id="T95">
+<rect width="30" height="30" />
+</g>
+<g id="T96">
+<rect width="30" height="30" />
+</g>
+<g id="T97">
+<rect width="30" height="30" />
+</g>
+<g id="T98">
+<rect width="30" height="30" />
+</g>
+<g id="T99">
+<rect width="30" height="30" />
+</g>
+<g id="T100">
+<rect width="30" height="30" />
+</g>
+<g id="T101">
+<rect width="30" height="30" />
+</g>
+<g id="T102">
+<rect width="30" height="30" />
+</g>
+<g id="T103">
+<rect width="30" height="30" />
+</g>
+<g id="T104">
+<rect width="30" height="30" />
+</g>
+<g id="T105">
+<rect width="30" height="30" />
+</g>
+<g id="T106">
+<rect width="30" height="30" />
+</g>
+<g id="T107">
+<rect width="30" height="30" />
+</g>
+<g id="T108">
+<rect width="30" height="30" />
+</g>
+<g id="T109">
+<rect width="30" height="30" />
+</g>
+<g id="T110">
+<rect width="30" height="30" />
+</g>
+<g id="T111">
+<rect width="30" height="30" />
+</g>
+<g id="T112">
+<rect width="30" height="30" />
+</g>
+<g id="T113">
+<rect width="30" height="30" />
+</g>
+<g id="T114">
+<rect width="30" height="30" />
+</g>
+<g id="T115">
+<rect width="30" height="30" />
+</g>
+<g id="T116">
+<rect width="30" height="30" />
+</g>
+<g id="T117">
+<rect width="30" height="30" />
+</g>
+<g id="T118">
+<rect width="30" height="30" />
+</g>
+<g id="T119">
+<rect width="30" height="30" />
+</g>
+<g id="T120">
+<rect width="30" height="30" />
+</g>
+<g id="T121">
+<rect width="30" height="30" />
+</g>
+<g id="T122">
+<rect width="30" height="30" />
+</g>
+<g id="T123">
+<rect width="30" height="30" />
+</g>
+<g id="T124">
+<rect width="30" height="30" />
+</g>
+<g id="T125">
+<rect width="30" height="30" />
+</g>
+<g id="T126">
+<rect width="30" height="30" />
+</g>
+<g id="T127">
+<rect width="30" height="30" />
+</g>
+<g id="T128">
+<rect width="30" height="30" />
+</g>
+<g id="T129">
+<rect width="30" height="30" />
+</g>
+<g id="T130">
+<rect width="30" height="30" />
+</g>
+<g id="T131">
+<rect width="30" height="30" />
+</g>
+<g id="T132">
+<rect width="30" height="30" />
+</g>
+<g id="T133">
+<rect width="30" height="30" />
+</g>
+<g id="T134">
+<rect width="30" height="30" />
+</g>
+<g id="T135">
+<rect width="30" height="30" />
+</g>
+<g id="T136">
+<rect width="30" height="30" />
+</g>
+<g id="T137">
+<rect width="30" height="30" />
+</g>
+<g id="T138">
+<rect width="30" height="30" />
+</g>
+<g id="T139">
+<rect width="30" height="30" />
+</g>
+<g id="T140">
+<rect width="30" height="30" />
+</g>
+<g id="T141">
+<rect width="30" height="30" />
+</g>
+<g id="T142">
+<rect width="30" height="30" />
+</g>
+<g id="T143">
+<rect width="30" height="30" />
+</g>
+<g id="T144">
+<rect width="30" height="30" />
+</g>
+<g id="T145">
+<rect width="30" height="30" />
+</g>
+<g id="T146">
+<rect width="30" height="30" />
+</g>
+<g id="T147">
+<rect width="30" height="30" />
+</g>
+<g id="T148">
+<rect width="30" height="30" />
+</g>
+<g id="T149">
+<rect width="30" height="30" />
+</g>
+<g id="T150">
+<rect width="30" height="30" />
+</g>
+<g id="T151">
+<rect width="30" height="30" />
+</g>
+<g id="T152">
+<rect width="30" height="30" />
+</g>
+<g id="T153">
+<rect width="30" height="30" />
+</g>
+<g id="T154">
+<rect width="30" height="30" />
+</g>
+<g id="T155">
+<rect width="30" height="30" />
+</g>
+<g id="T156">
+<rect width="30" height="30" />
+</g>
+<g id="T157">
+<rect width="30" height="30" />
+</g>
+<g id="T158">
+<rect width="30" height="30" />
+</g>
+<g id="T159">
+<rect width="30" height="30" />
+</g>
+<g id="T160">
+<rect width="30" height="30" />
+</g>
+<g id="T161">
+<rect width="30" height="30" />
+</g>
+<g id="T162">
+<rect width="30" height="30" />
+</g>
+</g>
+<g id="T163">
+<rect width="30" height="30" />
+</g>
+<g id="T164">
+<rect width="30" height="30" />
+</g>
+<g id="T165">
+<rect width="30" height="30" />
+</g>
+<g id="T166">
+<rect width="30" height="30" />
+</g>
+<g id="T167">
+<rect width="30" height="30" />
+</g>
+<g id="T168">
+<rect width="30" height="30" />
+</g>
+<g id="T169">
+<rect width="30" height="30" />
+</g>
+<g id="T170">
+<rect width="30" height="30" />
+</g>
+<g id="T171">
+<rect width="30" height="30" />
+</g>
+</svg>

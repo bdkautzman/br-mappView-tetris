@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<OpcUaSource FileVersion="7" ArVersion="B4.91">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <Task Name="TetrisVis">
+        <Variable Name="FastDown" />
+        <Variable Name="MoveLeft" />
+        <Variable Name="MoveRight" />
+        <Variable Name="RotClock" />
+        <Variable Name="RotCounter" />
+        <Variable Name="Score" />
+        <Variable Name="StartGame" />
+        <Variable Name="Transform" />
+        <Variable Name="TransformInHole" />
+        <Variable Name="TransformOnDeck" />
+        <Variable Name="ResetGame" />
+        <Variable Name="GameOverVis" />
+      </Task>
+    </Module>
+  </DefaultView>
+</OpcUaSource>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EventBindingSet id="ContentTetris_eventbinding" xmlns="http://www.br-automation.com/iat2014/eventbinding/v2" xmlns:types="http://www.br-automation.com/iat2015/widgetTypes/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Bindings>
+    <EventBinding id="EventBinding_2">
+      <Source xsi:type="clientSystem.Event" event="KeyDown" />
+      <EventHandler condition="key=&quot;a&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:MoveLeft">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="true" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;d&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:MoveRight">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="true" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;e&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:RotClock">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="true" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;q&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:RotCounter">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="true" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;s&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:FastDown">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="true" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot; &quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:StartGame">
+            <Method xsi:type="opcUa.NodeAction.ToggleValueBool" />
+          </Target>
+        </Action>
+      </EventHandler>
+    </EventBinding>
+    <EventBinding id="EventBinding_3">
+      <Source xsi:type="clientSystem.Event" event="KeyUp" />
+      <EventHandler condition="key=&quot;a&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:MoveLeft">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="false" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;d&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:MoveRight">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="false" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;e&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:RotClock">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="false" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;q&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:RotCounter">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="false" />
+          </Target>
+        </Action>
+      </EventHandler>
+      <EventHandler condition="key=&quot;s&quot;">
+        <Action>
+          <Target xsi:type="opcUa.NodeAction" refId="::TetrisVis:FastDown">
+            <Method xsi:type="opcUa.NodeAction.SetValueBool" value="false" />
+          </Target>
+        </Action>
+      </EventHandler>
+    </EventBinding>
+  </Bindings>
+</EventBindingSet>

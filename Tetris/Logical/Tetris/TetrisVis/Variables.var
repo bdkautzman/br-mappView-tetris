@@ -1,0 +1,49 @@
+VAR
+	DelayTime : TIME := T#30ms;
+	RegDown : BOOL;
+	MoveLeft : BOOL := FALSE;
+	MoveRight : BOOL;
+	RotClock : BOOL;
+	RotCounter : BOOL;
+	FastDown : BOOL;
+	TransformOnDeck : STRING[500] := '';
+	TransformInHole : STRING[500] := '';
+	Transform : STRING[20000] := '';
+	CurrentX : DINT := 0;
+	CurrentY : DINT := 0;
+	TmpStr : STRING[20] := '';
+	DownMove : BOOL;
+	Collision : BOOL;
+	GameBoard : ARRAY[0..9,0..19] OF USINT;
+	TON_GameTick : TON;
+	TON_Print : TON;
+	y : USINT;
+	x : USINT;
+	i : USINT;
+	w : DINT;
+	k : DINT;
+	PieceCur : piece_typ;
+	PieceNext : ARRAY[0..2] OF piece_typ;
+	RowsToDelete : ARRAY[0..19] OF BOOL;
+	DeleteRows : BOOL;
+	TileCnt : USINT;
+	NextTetrisState : stateTetris_enum;
+	TetrisState : stateTetris_enum;
+	ShapeState : shape_enum;
+	StartGame : BOOL;
+	ResetGame : BOOL;
+	GameOverVis : BOOL;
+	LogGenString : ARRAY[0..249] OF STRING[81];
+	LogStr2 : ARRAY[0..249] OF STRING[81];
+	LogStr1 : ARRAY[0..249] OF STRING[81];
+	LogStr : ARRAY[0..249] OF STRING[81];
+	NumRowsCleared : USINT;
+	Score : UDINT;
+	TilesAvailable : ARRAY[0..170] OF USINT;
+	NumTilesDeleted : USINT;
+	TilesDeleted : ARRAY[0..170] OF USINT;
+END_VAR
+(*Constants*)
+VAR
+	MAX_NUM_TILES : USINT := 171;
+END_VAR

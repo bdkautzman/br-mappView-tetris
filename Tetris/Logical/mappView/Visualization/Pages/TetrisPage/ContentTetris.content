@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content id="ContentTetrisPage" height="760" width="1093" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Widgets>
+    <Widget xsi:type="widgets.brease.Paper" id="Paper1" top="50" left="440" width="350" height="650" zIndex="0" colorList="#00FFFF, #0000AC, #FF7800, #FFFF00, #00FF00, #CD00CD, #FF0000" svgFilePath="Media/Test.svg" />
+    <Widget xsi:type="widgets.brease.Label" id="Label1" top="133" left="443" width="350" height="108" zIndex="1" text="Game Over" textAlign="center" fontName="EightBit" fontSize="30px" bold="true" visible="false" />
+    <Widget xsi:type="widgets.brease.GroupBox" id="GroupBox1" top="50" left="789" height="650" zIndex="2" borderWidth="1px" borderColor="rgba(0, 0, 0, 1)" style="transparent">
+      <Widgets>
+        <Widget xsi:type="widgets.brease.Label" id="Label2" top="0" left="-1" width="200" height="76" zIndex="0" text="Tetris" textAlign="center" fontName="EightBit" fontSize="30px" bold="true" />
+        <Widget xsi:type="widgets.brease.Label" id="Label3" top="91" left="41" width="117" zIndex="1" text="Score" textAlign="center" fontName="EightBit" fontSize="16px" bold="true" />
+        <Widget xsi:type="widgets.brease.NumericOutput" id="NumericOutput1" top="116" left="-1" width="200" height="55" zIndex="2" format="{'metric':{'decimalPlaces':0,'minimumIntegerDigits':1},'imperial':{'decimalPlaces':0,'minimumIntegerDigits':1},'imperial-us':{'decimalPlaces':0,'minimumIntegerDigits':1}}" showUnit="false" textAlign="center" fontName="EightBit" fontSize="24px" padding="0px" />
+        <Widget xsi:type="widgets.brease.Label" id="Label4" top="237" left="41" width="117" zIndex="3" text="Next" textAlign="center" fontName="EightBit" fontSize="16px" bold="true" />
+        <Widget xsi:type="widgets.brease.Paper" id="Paper2" top="272" left="-76" width="350" height="175" zIndex="4" colorList="#00FFFF, #0000AC, #FF7800, #FFFF00, #00FF00, #CD00CD, #FF0000" svgFilePath="Media/OnDeck.svg" borderColor="rgba(0, 0, 0, 0)" />
+        <Widget xsi:type="widgets.brease.Paper" id="Paper3" top="461" left="-76" width="350" height="175" zIndex="5" colorList="#00FFFF, #0000AC, #FF7800, #FFFF00, #00FF00, #CD00CD, #FF0000" svgFilePath="Media/InHole.svg" borderColor="rgba(0, 0, 0, 0)" />
+      </Widgets>
+    </Widget>
+    <Widget xsi:type="widgets.brease.ToggleButton" id="ToggleButton7" top="273" left="535" width="166" height="69" zIndex="3" mouseDownText="Play again?" text="Play again?" visible="false" />
+    <Widget xsi:type="widgets.brease.GroupBox" id="GroupBox2" top="50" left="115" width="326" height="650" zIndex="4" borderWidth="1px" borderColor="rgba(0, 0, 0, 1)" style="transparent">
+      <Widgets>
+        <Widget xsi:type="widgets.brease.ToggleButton" id="ToggleButton1" top="46" left="79" width="166" height="69" zIndex="0" mouseDownText="Pause" text="Start" />
+        <Widget xsi:type="widgets.brease.MomentaryPushButton" id="ToggleButton2" top="465" left="42" width="80" height="80" zIndex="1" image="Media/SVGsymbols/Arrow/ArrowLeft.svg" padding="0px 0px" />
+        <Widget xsi:type="widgets.brease.MomentaryPushButton" id="ToggleButton3" top="465" left="202" width="80" height="80" zIndex="2" image="Media/SVGsymbols/Arrow/ArrowRight.svg" padding="0px 0px" />
+        <Widget xsi:type="widgets.brease.MomentaryPushButton" id="ToggleButton4" top="538" left="122" width="80" height="80" zIndex="3" image="Media/SVGsymbols/Arrow/ArrowDown.svg" padding="0px 0px" />
+        <Widget xsi:type="widgets.brease.MomentaryPushButton" id="ToggleButton5" top="376" left="167" width="80" height="80" zIndex="4" image="Media/clockwise-circular-arrow.svg" imageHeight="50" imageWidth="50" padding="0px 0px" />
+        <Widget xsi:type="widgets.brease.MomentaryPushButton" id="ToggleButton6" top="376" left="77" width="80" height="80" zIndex="5" image="Media/counter-clockwise-circular-arrow.svg" imageHeight="50" imageWidth="50" padding="0px 0px" />
+      </Widgets>
+    </Widget>
+  </Widgets>
+</Content>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Package SubType="MediaPackage" PackageType="MediaPackage" xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="Package">SVGsymbols</Object>
+    <Object Type="File">Test.svg</Object>
+    <Object Type="File">InHole.svg</Object>
+    <Object Type="File">OnDeck.svg</Object>
+    <Object Type="File">clockwise-circular-arrow.svg</Object>
+    <Object Type="File">counter-clockwise-circular-arrow.svg</Object>
+  </Objects>
+</Package>
