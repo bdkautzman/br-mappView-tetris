@@ -22,5 +22,8 @@
     <LibraryObject Name="AsBrWStr" Source="Libraries.AsBrWStr.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="MpServer" Source="Libraries.MpServer.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="RandomLib" Source="Libraries.RandomLib.lby" Memory="UserROM" Language="ANSIC" Debugging="true" />
+    <LibraryObject Name="AdvIecChk" Source="Libraries.AdvIecChk.lby" Memory="UserROM" Language="IEC" Debugging="true" />
+    <LibraryObject Name="sys_lib" Source="Libraries.sys_lib.lby" Memory="UserROM" Language="binary" Debugging="true" />
+    <LibraryObject Name="asstring" Source="Libraries.asstring.lby" Memory="UserROM" Language="binary" Debugging="true" />
   </Libraries>
 </SwConfiguration>

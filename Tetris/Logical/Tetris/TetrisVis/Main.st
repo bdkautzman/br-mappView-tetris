@@ -428,8 +428,11 @@ PROGRAM _CYCLIC
 		TET_CHECK_COLLISION:
 			Collision := FALSE;
 			FOR i := 0 TO 3 DO
-				IF GameBoard[PieceNext[0].Tiles[i].X,PieceNext[0].Tiles[i].Y] <> 0 OR PieceNext[0].Tiles[i].Y = 20 OR 
-					PieceNext[0].Tiles[i].X = -1 OR PieceNext[0].Tiles[i].X = 10  THEN
+				// Gameboard index needs to be checked only if index is within array bounds
+				IF PieceNext[0].Tiles[i].Y = 20 OR PieceNext[0].Tiles[i].X = -1 OR PieceNext[0].Tiles[i].X = 10 THEN
+					Collision := TRUE;
+					EXIT;
+				ELSIF GameBoard[PieceNext[0].Tiles[i].X,PieceNext[0].Tiles[i].Y] <> 0 THEN
 					Collision := TRUE;
 					EXIT;
 				END_IF
